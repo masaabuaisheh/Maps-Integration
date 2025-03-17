@@ -35,20 +35,24 @@ The **Maps Integration Project** is a Flutter application that integrates Google
 
 Here are some screenshots of the app in action:
 
+## Screenshots
+
 ### Main Map View
-![Main Map View](assets/screenshots/main_map_view.png)
+<img src="https://github.com/user-attachments/assets/e9aaa26f-bad4-4e8c-9772-526f60c70961" alt="Main Map View" width="300" />
 
 ### Custom Info Window
-![Custom Info Window](assets/screenshots/custom_info_window.png)
+<img src="https://github.com/user-attachments/assets/c58678d6-1fe5-4db9-94d9-9cbfa35292f2" alt="Custom Info Window" width="300" />
 
 ### Filtering Locations
-![Filtering Locations](assets/screenshots/filtering_locations.png)
+| <img src="https://github.com/user-attachments/assets/7687ddcd-a637-4980-9b09-a2a8a0c5d47f" alt="Filtering Locations 1" width="300" /> | <img src="https://github.com/user-attachments/assets/14009956-a5c1-4d09-bb7c-a8f4e8e30ab6" alt="Filtering Locations 2" width="300" /> |
 
 ### Live Location & Weather
-![Live Location & Weather](assets/screenshots/live_location_weather.png)
+| <img src="https://github.com/user-attachments/assets/7f847680-1bd1-45bf-a6ab-74a92eb4f340" alt="Live Location & Weather 1" width="300" /> | <img src="https://github.com/user-attachments/assets/06a3e48d-8ac8-4e04-a11b-225707a89bee" alt="Live Location & Weather 2" width="300" /> |
+
 
 ### Saved Markers List
-![Saved Markers List](assets/screenshots/saved_markers_list.png)
+<img src="https://github.com/user-attachments/assets/f74d1a8f-baf4-413b-88d0-76c8c9d1ef5e" alt="Saved Markers List" width="300" />
+
 
 ## Installation
 
