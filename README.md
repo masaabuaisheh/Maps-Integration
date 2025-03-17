@@ -35,8 +35,6 @@ The **Maps Integration Project** is a Flutter application that integrates Google
 
 Here are some screenshots of the app in action:
 
-## Screenshots
-
 ### Main Map View
 <img src="https://github.com/user-attachments/assets/e9aaa26f-bad4-4e8c-9772-526f60c70961" alt="Main Map View" width="300" />
 
