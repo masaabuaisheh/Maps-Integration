@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/masaabuaisheh/Maps-Integration.git
-   cd maps_integration
+   cd Maps-Integration
    ```
 
 2. **Install Dependencies**:
